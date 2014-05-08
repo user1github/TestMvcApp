@@ -29,6 +29,14 @@ local.properties
 .buildpath
 
 
+#########
+## Exclude directory
+#########
+
+testExclude/
+*.txt
+
+
 #################
 ## Visual Studio
 #################
